@@ -301,14 +301,14 @@
 },
 {
     "region": "Centro",
-    "department": "Guatemala",
+    "department": "Departamento de Guatemala",
     "name": "Claudia Verónica Ordóñez Padilla",
     "phone": "24222598 - Ext 519",
-    "address": "7a avenida 3-33 zona 9 edificio Torre Empresarial",
-    "coordinates": [14.6110585, -90.5192346],
+    "address": "7a avenida 3-33 zona 9 edificio Torre Empresarial, Ciudad de Guatemala",
+    "coordinates": [14.61111, -90.51679],
     "image": "/image/mintrab.webp",
     "hierarchy": "Sede Central",
     "position": "Coordinadora Nacional",
-    "location": "https://maps.app.goo.gl/rZNuKbcVwuwR3VCL7"
+    "location": "https://maps.app.goo.gl/jaYzt5VnQT2kG6AU7"
 }
 ]
