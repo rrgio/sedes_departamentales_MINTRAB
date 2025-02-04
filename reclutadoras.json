@@ -21,8 +21,8 @@
   },
   {
     "name": "Balam Hunter",
-    "address": "5 calle A, 31-38 zona 11, residenciales V",
-    "contact": "3012-0721"
+    "address": "3ra avenida 17 zona 14, Ciudad de Guatemala",
+    "contact": "4847-3408"
   },
   {
     "name": "Legal Works",
@@ -95,14 +95,14 @@
     "contact": "5531-0878"
   },
   {
-    "name": "Meta Gt",
-    "address": "2da calle 1-90 apartamento 1001, Edificio La Torre Zona 9, Guatemala, Guatemala",
+    "name": "Meta GT",
+    "address": "6ta. Calle 5-47, zona 9, Edificio Vasil of. 101, Ciudad de Guatemala",
     "contact": "3019-2020"
   },
   {
-    "name": "Moci Guatemala",
-    "address": "10 calle 9-68 Zona 1, Edificio Rosanca, Nivel 5, Oficina 501",
-    "contact": "5949-8963"
+    "name": "MOCI",
+    "address": "10 calle 9-68 zona 1 of. 501, Ciudad de Guatemala",
+    "contact": "2293-7590"
   },
   {
     "name": "CIMA",
@@ -116,8 +116,8 @@
   },
   {
     "name": "DESTACA",
-    "address": "4ta avenida 14 21 Zona 10 Edif Santa Clara, 4-14 1er Nivel",
-    "contact": "2336-0152"
+    "address": "4A AVE 14-21 ZONA 10 EDIFICIO CUATRO 14, Ciudad de Guatemala",
+    "contact": "2293-3895"
   },
   {
     "name": "Global Innovation Work, S.A.",
@@ -125,14 +125,14 @@
     "contact": "3173-6033"
   },
   {
-    "name": "Cierto Gt",
-    "address": "6ta avenida 12-24, zona 10, Edificio HQ Fontabella, Oficina 601, Guatemala",
-    "contact": "3274-4040"
+    "name": "Cierto Guatemala",
+    "address": "10 avenida 15-72 zona 10 Ciudad de Guatemala, Oficina No.24",
+    "contact": "2382-8494"
   },
   {
-    "name": "SALGUSA",
-    "address": "16 calle 15-32, zona 13",
-    "contact": "5502-7528"
+    "name": "Servicios Amigo Laboral Guatemala, S. A. - SALGUSA (Amigo Laboral)",
+    "address": "16 calle 15-32, zona 13, Ciudad de Guatemala, Guatemala 01013",
+    "contact": "2361-3524 / 2361-3549 / 2235-7774"
   },
   {
     "name": "Asesorías CA",
@@ -140,14 +140,14 @@
     "contact": "4185-4642"
   },
   {
-    "name": "Comuguate, Sociedad Anónima",
-    "address": "15 avenida A 20-87, zona 13",
+    "name": "ComuGuate",
+    "address": "15 avenida A, 20-87, zona 13, Guatemala, Guatemala C.A.",
     "contact": "2290-9500"
   },
   {
-    "name": "Human Resource Outsourcing, Hro",
-    "address": "Carretera Al Pacifico C.C. Flores Del Lago, Sec. Las Azucenas Secc. D Local 08, Amatitlán Guatemala",
-    "contact": "6632-9667"
+    "name": "Human Resource Outsourcing",
+    "address": "km.29.5 carretera al pacifico, Centro Comercial Flores del Lago, Plaza las Azucenas, 3er. nivel, oficina No.24, Amatitlán, Guatemala",
+    "contact": "6675-0600"
   },
   {
     "name": "Serttegua",
@@ -166,8 +166,8 @@
   },
   {
     "name": "Asesorías San Gabriel",
-    "address": "Aldea Agua Caliente, zona 0",
-    "contact": "5964-7035"
+    "address": "Aldea Agua Caliente, San Juan Comalapa Chimaltenango",
+    "contact": "5712-7122"
   },
   {
     "name": "Grupo Siembra, Sociedad Anónima",
@@ -213,5 +213,10 @@
     "name": "MCS, Sociedad Anónima",
     "address": "2 calle 1-90 zona 9, Edificio La Torre, apartamento 1001 Guatemala",
     "contact": "5308-1877"
+  }, 
+  {
+    "name": "Operadora Laboral",
+    "address": "1 Avenida 10-51 Zona 10, Ciudad de Guatemala",
+    "contact": "2288-7670"
   }
 ]
