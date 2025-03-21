@@ -125,7 +125,7 @@
     "contact": "3173-6033"
   },
   {
-    "name": "Cierto Guatemala",
+    "name": "CIERTO GT",
     "address": "10 avenida 15-72 zona 10 Ciudad de Guatemala, Oficina No.24",
     "contact": "2382-8494"
   },
@@ -140,12 +140,12 @@
     "contact": "4185-4642"
   },
   {
-    "name": "ComuGuate",
+    "name": "COMUGUATE, SOCIEDAD ANÓNIMA",
     "address": "15 avenida A, 20-87, zona 13, Guatemala, Guatemala C.A.",
     "contact": "2290-9500"
   },
   {
-    "name": "Human Resource Outsourcing",
+    "name": "HUMAN RESOURCE OUTSOURCING, HRO",
     "address": "km.29.5 carretera al pacifico, Centro Comercial Flores del Lago, Plaza las Azucenas, 3er. nivel, oficina No.24, Amatitlán, Guatemala",
     "contact": "6675-0600"
   },
@@ -213,5 +213,20 @@
     "name": "MCS, Sociedad Anónima",
     "address": "2 calle 1-90 zona 9, Edificio La Torre, apartamento 1001 Guatemala",
     "contact": "5308-1877"
+  },
+  {
+    "name": "AGENCIA DE EMPLEO SIKAI",
+    "address": "5 AVENIDA  019 DIAGONAL CAY  ZONA 2, Solola, Santiago Atitlán",
+    "contact": "3072-6115"
+  },
+  {
+    "name": "CLG comunidad laboral guatemalteca",
+    "address": "02 calle, zona 2 Pasaco, Jutiapa",
+    "contact": "3780-4797"
+  },
+  {
+    "name": "MOCI GUATEMALA",
+    "address": "10 calle 9-68 zona 1 of. 501, Ciudad de Guatemala",
+    "contact": "2293-7590"
   }
 ]
