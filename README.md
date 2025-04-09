@@ -1,4 +1,4 @@
-# 🇬🇹 Sedes departamentales del Ministerio de Trabajo
+# Sedes departamentales del Ministerio de Trabajo
 
 Este proyecto tiene como objetivo proporcionar información detallada sobre las sedes departamentales del Ministerio de Trabajo y Previsión Social (MINTRAB) de Guatemala. La información incluye datos de contacto, direcciones, coordenadas geográficas, y enlaces a ubicaciones en Google Maps para cada sede. Además, se proporciona una imagen y el nombre del director o directora de cada sede.
 
