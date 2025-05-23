@@ -100,11 +100,6 @@
     "contact": "2339-2382"
   },
   {
-    "name": "MOCI",
-    "address": "10 calle 9-68 zona 1 of.501, Ciudad de Guatemala",
-    "contact": "2293-7590"
-  },
-  {
     "name": "CIMA",
     "address": "9 calle 10-42 zona 11",
     "contact": "3717-1822"
@@ -167,7 +162,7 @@
   {
     "name": "Asesorías San Gabriel",
     "address": "Aldea Agua Caliente, San Juan Comalapa Chimaltenango",
-    "contact": "5714-7122"
+    "contact": "4023-5564"
   },
   {
     "name": "Grupo Siembra, Sociedad Anónima",
@@ -210,9 +205,9 @@
     "contact": "7839-1410"
   },
   {
-    "name": "MCS, Sociedad Anónima",
-    "address": "2 calle 1-90 zona 9, Edificio La Torre, apartamento 1001 Guatemala",
-    "contact": "5308-1877"
+    "name": "MCS, SOCIEDAD ANÓNIMA / OPERADORA LABORAL",
+    "address": "1 avenida 10-51 zona 10 ciudad Guatemala",
+    "contact": "2288-7670"
   },
   {
     "name": "AGENCIA DE EMPLEO SIKAI",
@@ -228,5 +223,15 @@
     "name": "MOCI GUATEMALA",
     "address": "10 calle 9-68 zona 1 of. 501, Ciudad de Guatemala",
     "contact": "2293-7590"
+  },
+  {
+    "name": "LABOR LINK GT",
+    "address": "11 CALLE  ENTRE 11 Y 12 AVENIDAS, PUERTO BARRIOS, IZABAL",
+    "contact": "4214-2822"
+  },
+  {
+    "name": "Horizontes",
+    "address": "RESIDENCIAL SAN ANGEL III  ZONA 2",
+    "contact": "2270-0849"
   }
 ]
