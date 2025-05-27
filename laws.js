@@ -1,0 +1,244 @@
+{
+  "header": {
+    "title": "Documentación y Legislación",
+    "description": "Encuentre aquí las leyes y normativas que rigen el ámbito laboral en Guatemala, organizadas para su fácil consulta."
+  },
+  "sections": [
+    {
+      "title": "Leyes Constitucionales",
+      "items": [
+        {
+          "text": "Constitución Política de Guatemala"
+        },
+        {
+          "text": "Ley de Amparo, Exhibición Personal y Constitucionalidad"
+        },
+        {
+          "text": "Ley de Emisión del Pensamiento"
+        },
+        {
+          "text": "Ley de Orden Público"
+        },
+        {
+          "text": "Ley Electoral y de Partidos Políticos"
+        }
+      ]
+    },
+    {
+      "title": "Leyes Ordinarias",
+      "subsections": [
+        {
+          "title": "Decretos",
+          "items": [
+            {
+              "text": "Código de Trabajo de Guatemala Decreto 330 y sus Reformas"
+            },
+            {
+              "text": "Reformas al Código de Trabajo Decreto 7-2017"
+            },
+            {
+              "text": "Ley de Bonificación Anual para Trabajadores del Sector Privado y Público Decreto 42-92"
+            },
+            {
+              "text": "Ley de Consolidación Salarial Decreto 59-95"
+            },
+            {
+              "text": "Ley del Programa de Aporte Económico al Adulto Mayor y sus reformas 85-2005"
+            },
+            {
+              "text": "Ley que Promueve el Turismo Interno Decreto 42-2010"
+            },
+            {
+              "text": "Reforma a la ley que Promueve el Turismo Interno Decreto 19-2018"
+            },
+            {
+              "text": "Ley de Creación y Funcionamiento de los Centros de Recreación de los Trabajadores del Estado Decreto No. 81-70"
+            },
+            {
+              "text": "Reformas al Decreto número 85-2005 del Congreso de la República, Ley del Programa de Aporte Económico del Adulto Mayor, Decreto 4-2022 del Congreso de la República de Guatemala"
+            },
+            {
+              "text": "Ley para el Fomento del Trabajo Marino Mercante Guatemalteco en el Extranjero, Decreto 10-2022 del Congreso de la República de Guatemala"
+            }
+          ]
+        },
+        {
+          "title": "Acuerdos Gubernativos",
+          "items": [
+            {
+              "text": "Reglamento de la Ley del Programa de Aporte Económico del Adulto Mayor - 86-2007"
+            },
+            {
+              "text": "Permisos a Extranjeros 528-2003"
+            },
+            {
+              "text": "Reglamento de Salud y Seguridad Ocupacional 229-2014"
+            },
+            {
+              "text": "Reforma Reglamento Salud y Seguridad 51-2015"
+            },
+            {
+              "text": "Reforma Reglamento Salud y Seguridad 199-2015"
+            },
+            {
+              "text": "Reglamento Viáticos 106-2016"
+            },
+            {
+              "text": "Normas complementarias al reglamento de Salud y Seguridad Ocupacional, para la prevención y control de brotes de SARS COV-2 en los centros de trabajo, Acuerdo Gubernativo 79-2020 (No vigente)"
+            },
+            {
+              "text": "Integración de la Comisión Nacional del Salario 1-2021"
+            },
+            {
+              "text": "Reglamento de la Comisión Nacional del Salario y de las Comisiones Paritarias de Salarios Mínimos - Acuerdo Gubernativo 1319-1968"
+            },
+            {
+              "text": "Presentación de acta de supervivencia de beneficiarios del PAM durante 2022 1-2022"
+            },
+            {
+              "text": "Reglamento para el registro de reclutadores de personas trabajadoras guatemaltecas para la prestación de servicios o ejecución de obras fuera del territorio de la República de Guatemala, Acuerdo 50-2022"
+            },
+            {
+              "text": "Reformas al Acuerdo Gubernativo 229-2014: Reglamento de Salud y Seguridad Ocupacional, Acuerdo Gubernativo 57-2022"
+            },
+            {
+              "text": "Permiso laboral con goce de salario para los servidores públicos 101-2022"
+            },
+            {
+              "text": "Reglamento sobre las medidas para mitigar el contagio del SARS COV-2 en los centros de trabajo, Acuerdo Gubernativo número 179-2022"
+            },
+            {
+              "text": "Permiso laboral con goce de salario el viernes 16 de septiembre del año 2022, a los servidores públicos que prestan servicios en las entidades centralizadas y descentralizadas de la administración pública. Acuerdo Gubernativo Número 233-2022"
+            },
+            {
+              "text": "Salario Mínimo para las actividades económicas por Circunscripción Económica en la República de Guatemala para el año 2023, Acuerdo Gubernativo Número 353-2022"
+            },
+            {
+              "text": "Derogación del Acuerdo Gubernativo Número 179-2022 de fecha 18 de julio de 2022. Acuerdo Gubernativo Número 19-2023"
+            },
+            {
+              "text": "Reglamento para la Emisión de Solvencias de Faltas de Trabajo y Previsión Social, Acuerdo Gubernativo 33-2023"
+            },
+            {
+              "text": "Permiso laboral con goce de salario a servidores públicos de entidades públicas el 26 de junio de 2023. Acuerdo Gubernativo 138-2023"
+            },
+            {
+              "text": "Reglamento de la Ley para el Fomento del Trabajo Marino Mercante Guatemalteco en el Extranjero, Acuerdo Gubernativo Número 156-2023"
+            }
+          ]
+        },
+        {
+          "title": "Acuerdos Ministeriales",
+          "items": [
+            {
+              "text": "Acuerdo Ministerial 146-2025 Instructivo del Fondo Rotativo",
+              "url": "../doc/AcuerdoMinisterialNo146-2025InstructivodelFondoRotativo.pdf"
+            },
+            {
+              "text": "Acuerdo Ministerial 163-2025 Instructivo Interno y Específico para el Uso de Viaticos",
+              "url": "../doc/AcuerdoMinisterial163-2025.pdf"
+            },
+            {
+              "text": "Acuerdo Ministerial 196-2025. Instuctivo Interno y Especifico para uso del Fondo Rotativo Interno Especial de Privativos y Cajas Chicas",
+              "url": "../doc/AcuerdoMinisterial196-2025.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Convenio 175 sobre el Trabajo a Tiempo Parcial",
+      "introduction": "El Convenio 175 de la Organización Internacional del Trabajo (OIT) regula las relaciones laborales de los trabajadores a tiempo parcial en Guatemala. Fue adoptado el 24 de junio de 1994 y aprobado por el Congreso de la República mediante el Decreto Número 2-2017.",
+      "points": [
+        {
+          "title": "Prestaciones del Trabajador",
+          "description": "Los trabajadores a tiempo parcial tienen derecho a:",
+          "items": [
+            "Aguinaldo",
+            "Bono 14",
+            "Vacaciones",
+            "Indemnización por despido injustificado",
+            "IGSS (Seguro Social)",
+            "Bonificación Incentivo de Q250 (no proporcional)"
+          ]
+        },
+        {
+          "title": "Protección de la Maternidad",
+          "description": "Las trabajadoras tienen derecho a descanso pagado antes y después del parto, y a una hora de lactancia diaria durante 10 meses."
+        },
+        {
+          "title": "Descanso Semanal",
+          "description": "Derecho a descanso pagado si se trabaja 5 o 6 días consecutivos a la semana."
+        },
+        {
+          "title": "Vacaciones Pagadas",
+          "description": "Derecho a vacaciones proporcionales tras cumplir un año y al menos 150 días trabajados."
+        },
+        {
+          "title": "Derecho al IGSS",
+          "description": "Derecho a previsión y seguridad social."
+        },
+        {
+          "title": "Bonificación Incentivo",
+          "description": "Derecho a la bonificación incentivo de Q250, la cual no puede ser proporcional."
+        },
+        {
+          "title": "Contratación",
+          "description": "El trabajo a tiempo parcial está dirigido al sector privado. El sector público requiere un régimen especial."
+        },
+        {
+          "title": "Definición de Tiempo Parcial",
+          "description": "Trabajo menor a la jornada completa ordinaria:",
+          "items": [
+            "Diurna: hasta 8 horas",
+            "Mixta: hasta 7 horas",
+            "Nocturna: hasta 6 horas"
+          ]
+        },
+        {
+          "title": "Cálculo del Salario",
+          "description": "No puede ser inferior al salario mínimo por hora establecido."
+        },
+        {
+          "title": "Múltiples Empleos",
+          "description": "Es posible tener varias relaciones laborales a tiempo parcial, salvo acuerdos de exclusividad."
+        },
+        {
+          "title": "Reversión del Contrato",
+          "description": "Puede revertirse de mutuo acuerdo, con prestaciones calculadas según el tiempo parcial trabajado."
+        },
+        {
+          "title": "Derecho a Sindicalizarse",
+          "description": "Los trabajadores a tiempo parcial tienen derecho a la libertad sindical."
+        },
+        {
+          "title": "Aviso al Ministerio de Trabajo",
+          "description": "El contrato debe presentarse ante el Registro Laboral."
+        },
+        {
+          "title": "Registro de Trabajadores",
+          "description": "No es obligatorio llevar un libro especial, pero puede facilitar consultas y cálculos."
+        }
+      ]
+    },
+    {
+      "title": "Convenios Internacionales",
+      "introduction": "Guatemala ha ratificado un total de 75 convenios de la Organización Internacional del Trabajo (OIT), reflejando su compromiso con los estándares laborales internacionales. De estos, 8 de 10 son convenios fundamentales, 4 de 4 son convenios de gobernanza prioritarios, y 63 de 177 son convenios técnicos. Actualmente, 61 convenios están en vigor, 2 han sido denunciados y 12 han sido abrogados. En los últimos 12 meses, Guatemala no ha ratificado nuevos convenios.",
+      "items": [
+        {
+          "text": "Ratificaciones de Guatemala",
+          "url": "https://www.ilo.org/dyn/normlex/es/f?p=NORMLEXPUB:11200:0::NO::P11200_COUNTRY_ID:102667"
+        }
+      ]
+    },
+    {
+      "title": "Documentos",
+      "items": [
+        {
+          "text": "Memoria de labores 2024-2025",
+          "url": "../doc/Memoria-WEB-MINTRAB-2024-2025-LaprimeracosechaVF1.pdf"
+        }
+      ]
+    }
+  ]
+} 
