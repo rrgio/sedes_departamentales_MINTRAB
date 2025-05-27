@@ -221,16 +221,16 @@
         }
       ]
     },
+   {
+  "title": "Convenios Internacionales",
+  "introduction": "Guatemala ha ratificado un total de <strong>75 convenios</strong> de la Organización Internacional del Trabajo (OIT), reflejando su compromiso con los estándares laborales internacionales. De estos, <strong>8 de 10</strong> son convenios fundamentales, <strong>4 de 4</strong> son convenios de gobernanza prioritarios, y <strong>63 de 177</strong> son convenios técnicos. Actualmente, <strong>61 convenios están en vigor</strong>, <strong>2 han sido denunciados</strong> y <strong>12 han sido abrogados</strong>. En los últimos 12 meses, Guatemala no ha ratificado nuevos convenios.",
+  "items": [
     {
-      "title": "Convenios Internacionales",
-      "introduction": "Guatemala ha ratificado un total de 75 convenios de la Organización Internacional del Trabajo (OIT), reflejando su compromiso con los estándares laborales internacionales. De estos, 8 de 10 son convenios fundamentales, 4 de 4 son convenios de gobernanza prioritarios, y 63 de 177 son convenios técnicos. Actualmente, 61 convenios están en vigor, 2 han sido denunciados y 12 han sido abrogados. En los últimos 12 meses, Guatemala no ha ratificado nuevos convenios.",
-      "items": [
-        {
-          "text": "Ratificaciones de Guatemala",
-          "url": "https://www.ilo.org/dyn/normlex/es/f?p=NORMLEXPUB:11200:0::NO::P11200_COUNTRY_ID:102667"
-        }
-      ]
-    },
+      "text": "Ratificaciones de Guatemala",
+      "url": "https://www.ilo.org/dyn/normlex/es/f?p=NORMLEXPUB:11200:0::NO::P11200_COUNTRY_ID:102667"
+    }
+  ]
+}
     {
       "title": "Documentos",
       "items": [
