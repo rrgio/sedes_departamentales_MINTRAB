@@ -233,5 +233,30 @@
     "name": "Horizontes",
     "address": "RESIDENCIAL SAN ANGEL III  ZONA 2",
     "contact": "2270-0849"
+  },
+  {
+    "name": "INNOVAN DO TALENTO HUMANO",
+    "address": "2 avenida 0-76, zona 3 Colonia Bran, Guatemala, Guatemala",
+    "contact": "5674-9452"
+  },
+  {
+    "name": "MAHUAL, SOCIEDAD ANÓNIMA",
+    "address": "37 avenida 1-17, Zona 11, Ciudad de Guatemala, Guatemala, Guatemala",
+    "contact": "5670-1928"
+  },
+  {
+    "name": "SERVICIOS Y ASESORIA YOEL",
+    "address": "3 avenida B 3-50 Zona 4, San Marcos, San Pedro Sacatepéquez",
+    "contact": "5477-8911"
+  },
+  {
+    "name": "RESSOURCES HUMAINES GT",
+    "address": "7 avenida 3-31 Zona 4, Alta Verapaz, Cobán",
+    "contact": "4579-4970"
+  },
+  {
+    "name": "Talento Humano GT",
+    "address": "5 calle 7-2 Zona 2, Escuintla, Palín",
+    "contact": "5538-3237"
   }
 ]
