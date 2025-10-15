@@ -1,5 +1,15 @@
 [
   {
+    "name": "MUNDO LABORAL GT",
+    "address": "BARRIO NUEVO ZONA 0, Izabal, Morales",
+    "contact": "4732-6487"
+  },
+  {
+    "name": "NUEVOS HORIZONTES",
+    "address": "CASERIO ESPERANZA PROVIDENCIA ALDFA PATZAJ ZONA 0, Chimaltenango, San Martín Jilotepeque",
+    "contact": "4033-5847"
+  },
+  {
     "name": "HC SERVICES GUATEMALA ",
     "address": "13 CALLE 4-27 ZONA 0, AMATITLAN , GUATEMALA",
     "contact": "5060-1090"
@@ -188,11 +198,6 @@
     "name": "Servicios Matias-Sepulveda",
     "address": "1 avenida 3-84 zona 3",
     "contact": "5354-4100"
-  },
-  {
-    "name": "TEEXGUA",
-    "address": "15 calle 6-41 zona 12, villa nueva",
-    "contact": "3020-7088"
   },
   {
     "name": "Asesoría Integral Migratoria, Sociedad Anónima",
