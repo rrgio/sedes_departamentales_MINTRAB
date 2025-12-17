@@ -1,267 +1,212 @@
 [
-  {
-    "name": "MUNDO LABORAL GT",
-    "address": "BARRIO NUEVO ZONA 0, Izabal, Morales",
-    "contact": "4732-6487"
-  },
-  {
-    "name": "NUEVOS HORIZONTES",
-    "address": "CASERIO ESPERANZA PROVIDENCIA ALDFA PATZAJ ZONA 0, Chimaltenango, San Martín Jilotepeque",
-    "contact": "4033-5847"
-  },
-  {
-    "name": "HC SERVICES GUATEMALA ",
-    "address": "13 CALLE 4-27 ZONA 0, AMATITLAN , GUATEMALA",
-    "contact": "5060-1090"
-  },
-  {
-    "name": "Talento sin Fronteras Gt",
-    "address": "Residencias Breza de Colinas del Prado, Lote 30 manzana C, zona 1, San José Pinula, Guatemala",
-    "contact": "5531-7187"
-  },
-  {
-    "name": "Servicios El Gigante",
-    "address": "Calle Taller Andrade, Barrio El Mitchal, Morales, Izabal",
-    "contact": "5018-7121"
-  },
-  {
-    "name": "AVODA",
-    "address": "12 calle 2-55 apartamento B, Zona 14",
-    "contact": "5691-4484"
-  },
-  {
-    "name": "Agencia Laboral \"Nuevo Amanecer\"",
-    "address": "2da avenida “A\" 32-00, Colonia El Carmen, zona 12",
-    "contact": "4220-3307"
-  },
-  {
-    "name": "Balam Hunter",
-    "address": "3ra avenida 17 zona 14, Ciudad de Guatemala",
-    "contact": "4847-3408"
-  },
-  {
-    "name": "Legal Works",
-    "address": "11 calle 4-31, zona 1",
-    "contact": "5825-0986"
-  },
-  {
-    "name": "International Human Resources 502",
-    "address": "19 avenida 2-78 Colonia El Mirador, Edificio Distrito Miraflores, Oficina 313, zona 11, Guatemala, Guatemala",
-    "contact": "5427-0530"
-  },
-  {
-    "name": "Empléate USA",
-    "address": "4ta calle 14-04 zona 3, Edificio La Cabaña, Oficina 4, Quetzaltenango",
-    "contact": "3965-2370"
-  },
-  {
-    "name": "Tikal Job Staffing Agency",
-    "address": "11 calle 4-31 oficina 401, zona 1 Guatemala, Guatemala",
-    "contact": "5825-0986"
-  },
-  {
-    "name": "Guatemala Labor Solutions",
-    "address": "3era calle 3-60 zona 1, Patzún, Chimaltenango",
-    "contact": "5565-8584"
-  },
-  {
-    "name": "Professional People",
-    "address": "12 calle 1-25 zona 10, Edificio Géminis 10, Torre Norte Oficina 1305",
-    "contact": "5901-9761"
-  },
-  {
-    "name": "SZ ASMI",
-    "address": "13 calle 1-10, zona 10, Oficina 708, Guatemala, Guatemala",
-    "contact": "2268-4447"
-  },
-  {
-    "name": "Nova Opportunity",
-    "address": "2da. calle 1-18, Residenciales Villas de San Lázaro zona 9, San Miguel Petapa, Guatemala",
-    "contact": "4582-9813"
-  },
-  {
-    "name": "Manos que Ayudan",
-    "address": "Manzana N, Lote 13, apartamento A, Zona 0, Condado Minerva, Chinautla, Guatemala",
-    "contact": "4517-9623"
-  },
-  {
-    "name": "Serviplaza",
-    "address": "Barrio La libertad, sector municipalidad",
-    "contact": "5551-9353"
-  },
-  {
-    "name": "One Group Corporation",
-    "address": "18 avenida, 0-67 zona 15",
-    "contact": "5528-2895"
-  },
-  {
-    "name": "MILABINTSA",
-    "address": "Colonia Asunción Manzanales, zona 1",
-    "contact": "4964-5340"
-  },
-  {
-    "name": "Human Talent Gt",
-    "address": "2 calle 1-90 apartamento 1001, Edificio La Torre zona 9, Guatemala, Guatemala",
-    "contact": "3357-4419"
-  },
-  {
-    "name": "Daglex Sociedad Anónima",
-    "address": "13 calle 7-24 apartamento 506 zona 10, Guatemala, Guatemala",
-    "contact": "5531-0878"
-  },
-  {
-    "name": "Meta GT",
-    "address": "6ta. Calle 5-47, zona 9, Edificio Vasil of.101, Ciudad de Guatemala",
-    "contact": "2339-2382"
-  },
-  {
-    "name": "CIMA",
-    "address": "9 calle 10-42 zona 11",
-    "contact": "3717-1822"
-  },
-  {
-    "name": "Reclutadora Emigra",
-    "address": "10 avenida 15-72 Zona 10, Guatemala, Guatemala",
-    "contact": "2382-8414"
-  },
-  {
-    "name": "DESTACA",
-    "address": "4A AVE 14-21 ZONA 10 EDIFICIO CUATRO 14, Ciudad de Guatemala",
-    "contact": "2293-3895"
-  },
-  {
-    "name": "Global Innovation Work, S.A.",
-    "address": "4ta calle 0-43 zona 8, lote #61, Manzana D, Residenciales G&T 1, San Cristóbal, Mixco, Guatemala",
-    "contact": "3173-6033"
-  },
-  {
-    "name": "CIERTO GT",
-    "address": "10 avenida 15-72 zona 10 Ciudad de Guatemala, Oficina No.24",
-    "contact": "2382-8494"
-  },
-  {
-    "name": "Servicios Amigo Laboral Guatemala, S. A. - SALGUSA (Amigo Laboral)",
-    "address": "16 calle 15-32, zona 13, Ciudad de Guatemala, Guatemala 01013",
-    "contact": "2361-3524 / 2361-3549 / 2235-7774"
-  },
-  {
-    "name": "Asesorías CA",
-    "address": "2da calle, 014 Barrio el Bado, Oratorio, Santa Rosa",
-    "contact": "4185-4642"
-  },
-  {
-    "name": "COMUGUATE, SOCIEDAD ANÓNIMA",
-    "address": "15 avenida A, 20-87, zona 13, Guatemala, Guatemala C.A.",
-    "contact": "2290-9500"
-  },
-  {
-    "name": "HUMAN RESOURCE OUTSOURCING, HRO",
-    "address": "km.29.5 carretera al pacifico, Centro Comercial Flores del Lago, Plaza las Azucenas, 3er. nivel, oficina No.24, Amatitlán, Guatemala",
-    "contact": "6675-0600"
-  },
-  {
-    "name": "Serttegua",
-    "address": "Sector 1 Lote 208 \"B\" Aldea San Antonio Las Trojes, San Juan Sacatepéquez",
-    "contact": "6610-2202"
-  },
-  {
-    "name": "BC Consulting, Sociedad Anonima",
-    "address": "10 calle 0-34 zona 9",
-    "contact": "3047-0567"
-  },
-  {
-    "name": "Fundación Juan Francisco García Comparini",
-    "address": "4ta calle 5-01, zona 1",
-    "contact": "4891-4707"
-  },
-  {
-    "name": "Asesorías San Gabriel",
-    "address": "Aldea Agua Caliente, San Juan Comalapa Chimaltenango",
-    "contact": "4023-5564"
-  },
-  {
-    "name": "Grupo Siembra, Sociedad Anónima",
-    "address": "2 calle 8-01 local 101, interior de zona 14, Guatemala, Guatemala",
-    "contact": "2312-7374"
-  },
-  {
-    "name": "Labour Recruiting Services Guatemala, Sociedad Anónima",
-    "address": "6 avenida 1-36, Edificio Plaza los Arcos, oficina 3B, zona 14",
-    "contact": "5380-3579"
-  },
-  {
-    "name": "KGO Internacional",
-    "address": "11 calle 0-48, zona 10, Edificio Diamond oficina 403, Guatemala, Guatemala",
-    "contact": "4119-5955"
-  },
-  {
-    "name": "Servicios Matias-Sepulveda",
-    "address": "1 avenida 3-84 zona 3",
-    "contact": "5354-4100"
-  },
-  {
-    "name": "Asesoría Integral Migratoria, Sociedad Anónima",
-    "address": "Avenida Reforma 8-95, Local 13 Zona 10",
-    "contact": "4071-4610"
-  },
-  {
-    "name": "Fundación Margarita Valiente",
-    "address": "2 calle A, pasaje 7-64, zona 3",
-    "contact": "7839-1410"
-  },
-  {
-    "name": "MCS, SOCIEDAD ANÓNIMA / OPERADORA LABORAL",
-    "address": "1 avenida 10-51 zona 10 ciudad Guatemala",
-    "contact": "2288-7670"
-  },
-  {
-    "name": "AGENCIA DE EMPLEO SIKAI",
-    "address": "5 AVENIDA  019 DIAGONAL CAY  ZONA 2, Solola, Santiago Atitlán",
-    "contact": "3072-6115"
-  },
-  {
-    "name": "CLG comunidad laboral guatemalteca",
-    "address": "02 calle, zona 2 Pasaco, Jutiapa",
-    "contact": "3780-4797"
-  },
-  {
-    "name": "MOCI GUATEMALA",
-    "address": "10 calle 9-68 zona 1 of. 501, Ciudad de Guatemala",
-    "contact": "2293-7590"
-  },
-  {
-    "name": "LABOR LINK GT",
-    "address": "11 CALLE  ENTRE 11 Y 12 AVENIDAS, PUERTO BARRIOS, IZABAL",
-    "contact": "4214-2822"
-  },
-  {
-    "name": "Horizontes",
-    "address": "RESIDENCIAL SAN ANGEL III  ZONA 2",
-    "contact": "2270-0849"
-  },
-  {
-    "name": "INNOVAN DO TALENTO HUMANO",
-    "address": "2 avenida 0-76, zona 3 Colonia Bran, Guatemala, Guatemala",
-    "contact": "5674-9452"
-  },
-  {
-    "name": "MAHUAL, SOCIEDAD ANÓNIMA",
-    "address": "37 avenida 1-17, Zona 11, Ciudad de Guatemala, Guatemala, Guatemala",
-    "contact": "5670-1928"
-  },
-  {
-    "name": "SERVICIOS Y ASESORIA YOEL",
-    "address": "3 avenida B 3-50 Zona 4, San Marcos, San Pedro Sacatepéquez",
-    "contact": "5477-8911"
-  },
-  {
-    "name": "RESSOURCES HUMAINES GT",
-    "address": "7 avenida 3-31 Zona 4, Alta Verapaz, Cobán",
-    "contact": "4579-4970"
-  },
-  {
-    "name": "Talento Humano GT",
-    "address": "5 calle 7-2 Zona 2, Escuintla, Palín",
-    "contact": "5538-3237"
-  }
+ {
+   "name": "MUNDO LABORAL GT",
+   "address": "BARRIO NUEVO ZONA 0, Izabal, Morales",
+   "contact": "4732-6487"
+ },
+ {
+   "name": "NUEVOS HORIZONTES",
+   "address": "CASERIO ESPERANZA PROVIDENCIA ALDFA PATZAJ ZONA 0, Chimaltenango, San Martín Jilotepeque",
+   "contact": "4033-5847"
+ },
+ {
+   "name": "HC SERVICES GUATEMALA ",
+   "address": "13 CALLE 4-27 ZONA 0, AMATITLAN , GUATEMALA",
+   "contact": "5060-1090"
+ },
+ {
+   "name": "Talento sin Fronteras Gt",
+   "address": "Residencias Breza de Colinas del Prado, Lote 30 manzana C, zona 1, San José Pinula, Guatemala",
+   "contact": "5531-7187"
+ },
+ {
+   "name": "Servicios El Gigante",
+   "address": "Calle Taller Andrade, Barrio El Mitchal, Morales, Izabal",
+   "contact": "5018-7121"
+ },
+ {
+   "name": "AVODA",
+   "address": "12 calle 2-55 apartamento B, Zona 14",
+   "contact": "5691-4484"
+ },
+ {
+   "name": "Agencia Laboral \"Nuevo Amanecer\"",
+   "address": "2da avenida “A\" 32-00, Colonia El Carmen, zona 12",
+   "contact": "4220-3307"
+ },
+ {
+   "name": "Balam Hunter",
+   "address": "3ra avenida 17 zona 14, Ciudad de Guatemala",
+   "contact": "4847-3408"
+ },
+ {
+   "name": "Legal Works",
+   "address": "11 calle 4-31, zona 1",
+   "contact": "5825-0986"
+ },
+ {
+   "name": "International Human Resources 502",
+   "address": "19 avenida 2-78 Colonia El Mirador, Edificio Distrito Miraflores, Oficina 313, zona 11, Guatemala, Guatemala",
+   "contact": "5427-0530"
+ },
+ {
+   "name": "Empléate USA",
+   "address": "4ta calle 14-04 zona 3, Edificio La Cabaña, Oficina 4, Quetzaltenango",
+   "contact": "3965-2370"
+ },
+ {
+   "name": "Tikal Job Staffing Agency",
+   "address": "11 calle 4-31 oficina 401, zona 1 Guatemala, Guatemala",
+   "contact": "5825-0986"
+ },
+ {
+   "name": "Guatemala Labor Solutions",
+   "address": "3era calle 3-60 zona 1, Patzún, Chimaltenango",
+   "contact": "5565-8584"
+ },
+ {
+   "name": "Professional People",
+   "address": "12 calle 1-25 zona 10, Edificio Géminis 10, Torre Norte Oficina 1305",
+   "contact": "5901-9761"
+ },
+ {
+   "name": "SZ ASMI",
+   "address": "13 calle 1-10, zona 10, Oficina 708, Guatemala, Guatemala",
+   "contact": "2268-4447"
+ },
+ {
+   "name": "Nova Opportunity",
+   "address": "2da. calle 1-18, Residenciales Villas de San Lázaro zona 9, San Miguel Petapa, Guatemala",
+   "contact": "4582-9813"
+ },
+ {
+   "name": "Manos que Ayudan",
+   "address": "Manzana N, Lote 13, apartamento A, Zona 0, Condado Minerva, Chinautla, Guatemala",
+   "contact": "4517-9623"
+ },
+ {
+   "name": "Serviplaza",
+   "address": "Barrio La libertad, sector municipalidad",
+   "contact": "5551-9353"
+ },
+ {
+   "name": "One Group Corporation",
+   "address": "18 avenida, 0-67 zona 15",
+   "contact": "5528-2895"
+ },
+ {
+   "name": "MILABINTSA",
+   "address": "Colonia Asunción Manzanales, zona 1",
+   "contact": "4964-5340"
+ },
+ {
+   "name": "Human Talent Gt",
+   "address": "2 calle 1-90 apartamento 1001, Edificio La Torre zona 9, Guatemala, Guatemala",
+   "contact": "3357-4419"
+ },
+ {
+   "name": "Daglex Sociedad Anónima",
+   "address": "13 calle 7-24 apartamento 506 zona 10, Guatemala, Guatemala",
+   "contact": "5531-0878"
+ },
+ {
+   "name": "Meta GT",
+   "address": "6ta. Calle 5-47, zona 9, Edificio Vasil of.101, Ciudad de Guatemala",
+   "contact": "2339-2382"
+ },
+ {
+   "name": "CIMA",
+   "address": "9 calle 10-42 zona 11",
+   "contact": "3717-1822"
+ },
+ {
+   "name": "Reclutadora Emigra",
+   "address": "10 avenida 15-72 Zona 10, Guatemala, Guatemala",
+   "contact": "2382-8414"
+ },
+ {
+   "name": "DESTACA",
+   "address": "4A AVE 14-21 ZONA 10 EDIFICIO CUATRO 14, Ciudad de Guatemala",
+   "contact": "2293-3895"
+ },
+ {
+   "name": "Global Innovation Work, S.A.",
+   "address": "4ta calle 0-43 zona 8, lote #61, Manzana D, Residenciales G&T 1, San Cristóbal, Mixco, Guatemala",
+   "contact": "3173-6033"
+ },
+ {
+   "name": "CIERTO GT",
+   "address": "10 avenida 15-72 zona 10 Ciudad de Guatemala, Oficina No.24",
+   "contact": "2382-8494"
+ },
+ {
+   "name": "Servicios Amigo Laboral Guatemala, S. A. - SALGUSA (Amigo Laboral)",
+   "address": "16 calle 15-32, zona 13, Ciudad de Guatemala, Guatemala 01013",
+   "contact": "2361-3524 / 2361-3549 / 2235-7774"
+ },
+ {
+   "name": "COMUGUATE, SOCIEDAD ANÓNIMA",
+   "address": "15 avenida A, 20-87, zona 13, Guatemala, Guatemala C.A.",
+   "contact": "2290-9500"
+ },
+ {
+   "name": "HUMAN RESOURCE OUTSOURCING, HRO",
+   "address": "km.29.5 carretera al pacifico, Centro Comercial Flores del Lago, Plaza las Azucenas, 3er. nivel, oficina No.24, Amatitlán, Guatemala",
+   "contact": "6675-0600"
+ },
+ {
+   "name": "KGO Internacional",
+   "address": "11 calle 0-48, zona 10, Edificio Diamond oficina 403, Guatemala, Guatemala",
+   "contact": "4119-5955"
+ },
+ {
+   "name": "AGENCIA DE EMPLEO SIKAI",
+   "address": "5 AVENIDA  019 DIAGONAL CAY  ZONA 2, Solola, Santiago Atitlán",
+   "contact": "3072-6115"
+ },
+ {
+   "name": "CLG comunidad laboral guatemalteca",
+   "address": "02 calle, zona 2 Pasaco, Jutiapa",
+   "contact": "3780-4797"
+ },
+ {
+   "name": "MOCI GUATEMALA",
+   "address": "10 calle 9-68 zona 1 of. 501, Ciudad de Guatemala",
+   "contact": "2293-7590"
+ },
+ {
+   "name": "LABOR LINK GT",
+   "address": "11 CALLE  ENTRE 11 Y 12 AVENIDAS, PUERTO BARRIOS, IZABAL",
+   "contact": "4214-2822"
+ },
+ {
+   "name": "Horizontes",
+   "address": "RESIDENCIAL SAN ANGEL III  ZONA 2",
+   "contact": "2270-0849"
+ },
+ {
+   "name": "INNOVAN DO TALENTO HUMANO",
+   "address": "2 avenida 0-76, zona 3 Colonia Bran, Guatemala, Guatemala",
+   "contact": "5674-9452"
+ },
+ {
+   "name": "MAHUAL, SOCIEDAD ANÓNIMA",
+   "address": "37 avenida 1-17, Zona 11, Ciudad de Guatemala, Guatemala, Guatemala",
+   "contact": "5670-1928"
+ },
+ {
+   "name": "SERVICIOS Y ASESORIA YOEL",
+   "address": "3 avenida B 3-50 Zona 4, San Marcos, San Pedro Sacatepéquez",
+   "contact": "5477-8911"
+ },
+ {
+   "name": "RESSOURCES HUMAINES GT",
+   "address": "7 avenida 3-31 Zona 4, Alta Verapaz, Cobán",
+   "contact": "4579-4970"
+ },
+ {
+   "name": "Talento Humano GT",
+   "address": "5 calle 7-2 Zona 2, Escuintla, Palín",
+   "contact": "5538-3237"
+ }
 ]
