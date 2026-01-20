@@ -265,30 +265,6 @@
 },
 {
     "region": "Sur",
-    "department": "San Marcos",
-    "name": "Zonia María Velasco López de Angel",
-    "phone": "24232147",
-    "address": "Camino a las Piscinas, Aldea El Carmen, Malacatán San Marcos segundo nivel.",
-    "coordinates": [14.961896, -92.143365],
-    "image": "/image/mintrab.webp",
-    "hierarchy": "Jefatura",
-    "position": "-",
-    "location": "https://maps.app.goo.gl/NvbcNiCcMfig4tKdA"
-},
-{
-    "region": "Sur",
-    "department": "San Marcos",
-    "name": "-",
-    "phone": "24232149",
-    "address": "2da avenida 4-41 zona 1 Tecún Umán",
-    "coordinates": [14.677588, -92.141274],
-    "image": "/image/mintrab.webp",
-    "hierarchy": "Jefatura",
-    "position": "-",
-    "location": "https://maps.app.goo.gl/6NLriDjDEMu8kqyG8"
-},
-{
-    "region": "Sur",
     "department": "Escuintla",
     "name": "Miriam Dayanna Zárate Xiloj",
     "phone": "24232148",
