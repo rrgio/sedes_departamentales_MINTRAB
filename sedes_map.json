@@ -28,12 +28,12 @@
     "department": "Petén",
     "name": "Rubi Dinora Reyes Donis",
     "phone": "35660487 - 24232127",
-    "address": "6ta Calle 3 av. Zona 6, Barrio El Porvenir San Benito, Petén.",
-    "coordinates": [16.914619, -89.908115],
+    "address": "2ª. Calle 4-22, Antigua Población, zona 2, Flores, Petén.",
+    "coordinates": [16.915939, -89.894504],
     "image": "/image/Rubi-Dinora-Reyes-Donis-01-Peten.webp",
     "hierarchy": "Sede",
     "position": "Directora",
-    "location": "https://maps.app.goo.gl/JiCLkhGbBqjbb1R77"
+    "location": "https://maps.app.goo.gl/AAGxNb6ND5rfCxUY6"
 },
 {
     "region": "Centro",
@@ -233,11 +233,11 @@
     "name": "Astrid Carola Franco Bailey",
     "phone": "35663885 - 24232144",
     "address": "6 calle y 6 Avenida Esquina, Puerto Barrios, Izabal",
-    "coordinates": [15.735731, -88.599135],
+    "coordinates": [15.722198, -88.591203],
     "image": "https://raw.githubusercontent.com/rrgio/sedes_departamentales_MINTRAB/main/image/Astrid-Carola-Franco-Bailey,-Izabal.webp",
     "hierarchy": "Sede",
     "position": "Directora",
-    "location": "https://maps.app.goo.gl/ZXM31cFg3jfxixjv6"
+    "location": "https://maps.app.goo.gl/Tur9ajZM5jLeriGz8"
 },
 {
     "region": "Oriente",
